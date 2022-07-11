@@ -46,6 +46,8 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
 * [monotone](https://www.monotone.ca/) - is a free distributed version control system.
+* [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) - Fossil is a simple, high-reliability, distributed software configuration management system with advanced features.
+
 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
