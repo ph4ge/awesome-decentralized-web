@@ -45,6 +45,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Radicle](https://radicle.xyz/) - secure peer-to-peer code collaboration without intermediaries.
 * [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
+* [monotone](https://www.monotone.ca/) - is a free distributed version control system.
 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
